@@ -1,5 +1,4 @@
 # Metaverse-Real-Life-Game
-Real life game
 Oyun C dili kullanılarak yasirkas tarafından oluşturulmuştur.
 Oyunun temel amacı hayatta kalmaya çalışmak.
 Yapabileceğiniz mesleklerle para kazanabilir,paranızı markette harcayabilir ve oradan işinize yaracak ürünleri alabilirsiniz.
